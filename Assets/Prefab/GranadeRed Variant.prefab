@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9040627467594752129
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4090650109805591782, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.24964403
+      objectReference: {fileID: 0}
+    - target: {fileID: 4090650109805591782, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.31647342
+      objectReference: {fileID: 0}
+    - target: {fileID: 4090650109805591782, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.9622642
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128754, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 19bf318515293214a851927446419597,
+        type: 3}
+    - target: {fileID: 4413961990199128755, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_Name
+      value: GranadeRed Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128765, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128766, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: Color
+      value: Red
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128766, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: WallPaintColor.b
+      value: 0.09019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128766, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: WallPaintColor.g
+      value: 0.105882354
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413961990199128766, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: WallPaintColor.r
+      value: 0.49019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 6003731836851853428, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: Color
+      value: Red
+      objectReference: {fileID: 0}
+    - target: {fileID: 6003731836851853428, guid: 18bf31e90d95f2240b75f623b0342a57,
+        type: 3}
+      propertyPath: splatObject
+      value: 
+      objectReference: {fileID: 4718360706546622797, guid: 0030dc58a35091e4aa9cadcd975662b3,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 18bf31e90d95f2240b75f623b0342a57, type: 3}

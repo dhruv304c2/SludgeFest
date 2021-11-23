@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Walls
+  - Paint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NeutralLayer
+  - Wall
+  - Player
+  - Particles
+  - Blue
+  - Red
+  - Ground
+  - CapturPoint
+  - Obstacle
+  - EnemyProjectile
+  - Projectile
+  - EnemyPlayer
+  - Triggers
+  - Throwables
+  - PostProcessing
+  - ParticleCollector
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3223898481
+    locked: 0
+  - name: Buildings
+    uniqueID: 2460426077
+    locked: 0
+  - name: CapturePointBack
+    uniqueID: 415339635
+    locked: 0
+  - name: WallPaint
+    uniqueID: 2114884805
+    locked: 0
+  - name: FrontOfPaintBehindPlayer
+    uniqueID: 3433644831
+    locked: 0
+  - name: WorldObjects
+    uniqueID: 1585908551
+    locked: 0
+  - name: Planks
+    uniqueID: 1454082347
+    locked: 0
+  - name: Ground/Walls
+    uniqueID: 1327466173
+    locked: 0
+  - name: Ground/Ground
+    uniqueID: 2004825107
+    locked: 0
+  - name: Paint
+    uniqueID: 741621467
+    locked: 0
+  - name: CapturePoint
+    uniqueID: 3351265031
+    locked: 0
+  - name: SetDressing
+    uniqueID: 747167343
+    locked: 0
+  - name: Player
+    uniqueID: 3643807095
+    locked: 0
+  - name: BuildingForeGround
+    uniqueID: 3154100621
+    locked: 0
+  - name: Splat
+    uniqueID: 2561848519
+    locked: 0
+  - name: FX
+    uniqueID: 1224634633
+    locked: 0
+  - name: InGameUi
+    uniqueID: 1006462793
+    locked: 0
+  - name: UI
+    uniqueID: 3131366101
+    locked: 0
